@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚧 Bio em construção 🚧
 ![GitHub followers](https://img.shields.io/github/followers/rogercristian?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/stars/rogercristian?style=for-the-badge)
 ![Repos Badge](https://badges.pufler.dev/repos/rogercristian?style=for-the-badge)
 ![Visits Badge](https://badges.pufler.dev/visits/rogercristian/rogercristian?style=for-the-badge)
+
+<h4 align="center">
+🚧 Bio em construção 🚧
+  </h4>
