@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚧 Bio em construção 🚧
 ![GitHub followers](https://img.shields.io/github/followers/rogercristian?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/stars/rogercristian?style=for-the-badge)
 ![Repos Badge](https://badges.pufler.dev/repos/rogercristian?style=for-the-badge)
