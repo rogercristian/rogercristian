@@ -1,6 +1,6 @@
 # Opa! Roger na escuta!
-<h1> </h1>
-![GitHub followers](https://img.shields.io/github/followers/rogercristian?style=for-the-badge)
+
+
 <!--
 **rogercristian/rogercristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub followers](https://img.shields.io/github/followers/rogercristian?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/stars/rogercristian?style=for-the-badge)
+![Repos Badge](https://badges.pufler.dev/repos/rogercristian?style=for-the-badge)
+![Visits Badge](https://badges.pufler.dev/visits/rogercristian/rogercristian?style=for-the-badge)
