@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 <h4 align="center">
 🚧 Bio em construção 🚧
   </h4>
+<p>
+  ✒  Antes de mais nada, sou ilustrador [<a  href="https://www.behance.net/rogersoares2/">Potfólio no Behance</a>]
+  
+  </p>
