@@ -21,10 +21,18 @@ Here are some ideas to get you started:
 ![Repos Badge](https://badges.pufler.dev/repos/rogercristian?style=for-the-badge)
 ![Visits Badge](https://badges.pufler.dev/visits/rogercristian/rogercristian?style=for-the-badge)
 
+<div>
+  <a href="https://github.com/rogercristian">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rogercristian&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogercristian&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+  ##
+  
 <h4 align="center">
 🚧 Bio em construção 🚧
   </h4>
 <p>
-  ✒  Antes de mais nada, sou ilustrador [<a  href="https://www.behance.net/rogersoares2/">Potfólio no Behance</a>]
+  ✒  Antes de mais nada, sou ilustrador [<a target="_blank"  href="https://www.behance.net/rogersoares2/">Potfólio no Behance</a>]
   
   </p>
