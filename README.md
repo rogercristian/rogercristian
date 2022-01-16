@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Repos Badge](https://badges.pufler.dev/repos/rogercristian?style=for-the-badge)
 ![Visits Badge](https://badges.pufler.dev/visits/rogercristian/rogercristian?style=for-the-badge)
   
-<div style="display: inline_block ; backgroud: #ccc">
+<div style="display: inline_block">
   <a href="https://github.com/rogercristian">
   <img height="172em" src="https://github-readme-stats.vercel.app/api?username=rogercristian&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
  
@@ -35,8 +35,18 @@ Here are some ideas to get you started:
   
   ## Falando um pouco sobre mim:  
   
-<div style="background-color: #ccc">
-  ✒  Antes de mais nada, sou ilustrador [<a target="_blank"  href="https://www.behance.net/rogersoares2/">Potfólio no Behance</a>]
+<div>
+  
+  Sou carioca, moro num cantinho do Rio de Janeiro que é cercado pela Mata Atlantica com minha mulher e dois 🐶🐶 filhos de quatro patas, que são a razão da minha vida!
+  
+  0
+  
+ <!--
+ 
+✒  Sou  ilustrador [<a target="_blank"  href="https://www.behance.net/rogersoares2/">Potfólio no Behance</a>]
+  
+-->
+  
   
   </div>
   
