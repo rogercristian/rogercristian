@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   
   Sou carioca, moro num cantinho do Rio de Janeiro que é cercado pela Mata Atlantica com minha mulher e dois 🐶🐶 filhos de quatro patas, que são a razão da minha vida!
   
-  0
+  
   
  <!--
  
