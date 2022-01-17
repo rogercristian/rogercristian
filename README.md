@@ -57,10 +57,10 @@ Here are some ideas to get you started:
   </h4>
   
  
-  🎓 Estudando para melhorar como Front-End
+  🎓 Estudando para melhorar como Front-End <br/>
   🎓 Sou formado em Design Gráfico  <br/>
       Já estudei Artes Plásticas na UFRJ (todo mundo tem um passado obscuro). <br/>
-   👅 Inglês intermediário.
+   👅 Inglês intermediário. <br/>
   
  
  <!--
