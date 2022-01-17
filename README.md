@@ -36,11 +36,33 @@ Here are some ideas to get you started:
   ## Falando um pouco sobre mim:  
   
 <div>
-  
+ <h3> <p>
   Sou carioca, moro num cantinho do Rio de Janeiro que é cercado pela Mata Atlantica com minha mulher e dois 🐶🐶 filhos de quatro patas, que são a razão da minha vida!
+
+  </p>
+   <p>
+     Atualmento dou de Ilustração, Modelagem 3D e Game Design para crianças e adolescente (antes presencial, mas no momento são on-line por conta da pandemia 😐). 
+     Gosto de ensinar, mas quero me concentrar na minha carreira (no momento em modo "Reset"), para em outro momento, voltar a dar aula não para pagar as contas, mas para levar conhecimento para uma galera que não pode pagar.      
+   </p>
+   
+   Apesar de ficar quieto no meu canto, gosto de interagir com as pessoas que fazem parte do meu convívio. Ensinar mostrou que sou mais empático do que eu pensva (ou talvez tenha me tornado mais empático por causa das aulas).
+    </h3>
+   
+  <h4>
+  🕹 Adoro GAMES, tanto criar quanto jogar (apesar de só ter protótipos até agora); <br/>
+  ⚔ Gosto de RPG e jogos de tabuleiro em geral. - Meu preferido é Lobisomen. <br/>
+  🎼 Tipo de música que mais me inspira é heavy metal / Hard-Rock, mas pop é bem vindo. <br/>
+  🥘 Gosto de cozinhar, pois comida deixa as pessoas mais felizes. <br/>
   
+  </h4>
   
+ 
+  🎓 Estudando para melhorar como Front-End
+  🎓 Sou formado em Design Gráfico  <br/>
+      Já estudei Artes Plásticas na UFRJ (todo mundo tem um passado obscuro). <br/>
+   👅 Inglês intermediário.
   
+ 
  <!--
  
 ✒  Sou  ilustrador [<a target="_blank"  href="https://www.behance.net/rogersoares2/">Potfólio no Behance</a>]
