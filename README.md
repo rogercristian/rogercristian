@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   🎼 Tipo de música que mais me inspira é heavy metal / Hard-Rock, mas pop é bem vindo. <br/>
   🥘 Gosto de cozinhar, pois comida deixa as pessoas mais felizes. <br/>
   
-  </h4>
+  
   
  
   🎓 Estudando para melhorar como Front-End <br/>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
       Já estudei Artes Plásticas na UFRJ (todo mundo tem um passado obscuro). <br/>
    👅 Inglês intermediário. <br/>
   
- 
+ </h4>
  <!--
  
 ✒  Sou  ilustrador [<a target="_blank"  href="https://www.behance.net/rogersoares2/">Potfólio no Behance</a>]
