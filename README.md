@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
   </p>
    <p>
-     Atualmento dou de Ilustração, Modelagem 3D e Game Design para crianças e adolescente (antes presencial, mas no momento são on-line por conta da pandemia 😐). 
+     Atualmento dou aula de Ilustração, Modelagem 3D e Game Design para crianças e adolescente (antes presencial, mas no momento são on-line por conta da pandemia 😐). 
      Gosto de ensinar, mas quero me concentrar na minha carreira (no momento em modo "Reset"), para em outro momento, voltar a dar aula não para pagar as contas, mas para levar conhecimento para uma galera que não pode pagar.      
    </p>
    
