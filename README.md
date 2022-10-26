@@ -5,8 +5,6 @@
   
 ![GitHub followers](https://img.shields.io/github/followers/rogercristian?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/stars/rogercristian?style=for-the-badge)
-![Repos Badge](https://badges.pufler.dev/repos/rogercristian?style=for-the-badge)
-![Visits Badge](https://badges.pufler.dev/visits/rogercristian/rogercristian?style=for-the-badge)
   
 <div style="display: inline_block">
   <a href="https://github.com/rogercristian">
