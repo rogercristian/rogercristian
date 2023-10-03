@@ -1,4 +1,4 @@
-# Chega mais! Meu nome é Roger Cristian, ilustrador, web dev, game designer e professor!
+# Chega mais! Meu nome é Roger, sou ilustrador, designer 3D, web dev, game designer e professor!
 
 
 
